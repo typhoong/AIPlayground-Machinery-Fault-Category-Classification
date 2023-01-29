@@ -1,6 +1,4 @@
 """
-final modification: nmlee 211109
-
 accuracy score - even label ratio
 """
 
